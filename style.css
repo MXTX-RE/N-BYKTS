@@ -1,0 +1,68 @@
+ body{
+    background-size :cover;
+    background-image: url(img/Arkaplan.jpg);
+    background-repeat: no-repeat ;
+    background-attachment: fixed ;
+}
+.merkez{
+    margin: auto;
+    width: 100px;
+    height: 1000px;
+}
+ button{
+    width: 220px;
+	height: 55px;
+	cursor: pointer;
+	background: #333;
+	margin: 10px;
+	border: none;
+	border-radius: 10px;
+	box-shadow: -5px -5px 15px  #93d2cb, 5px 5px 15px  #93d2cb, inset 5px 5px 10px  #444, inset -5px -5px 10px #222;
+	color: #e9eb72;
+	font-size: 16px;
+}
+.center{
+    height: 440px;
+}
+.ust{
+    margin:auto;
+    height:140px;
+    text-align: center;
+    align-items: center;
+}
+img{
+    box-shadow: -5px -5px 15px  , 5px 5px 15px , inset 5px 5px 10px  #444, inset -5px -5px 10px #222;
+    border-radius: 10px;
+    height:45px;
+}
+
+logo{
+    height:20px;
+    width:20px;
+}
+.gallery{
+    text-align: center;
+    
+    height:120px;
+}
+#galeri{
+    width: 120px;
+    height:120px;
+    border-radius: 8px;
+    box-shadow: -5px -5px 15px  #93d2cb, 5px 5px 15px  #93d2cb, inset 5px 5px 10px  #444, inset -5px -5px 10px #222;
+}
+.ara{
+    height:20px;
+}
+h1{
+    color:#e9eb72;
+    font-family: serif;
+    font-size:60px;
+}
+a{
+    color:#b9dfba;
+    font-size: 20px;
+}
+ 
+
+
